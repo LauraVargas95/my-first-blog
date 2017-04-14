@@ -9,3 +9,16 @@ h2 a{
     color:#102372;
     font-family:'Macondo';
 }
+.Encabezado{
+    background-color:#102372;
+    margin-top:0;
+    padding:20px 20px 20px 40px;
+}
+
+.Encabezado h1, .Encabezado h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    color: #ffffff;
+    font-size:36pt;
+    text-decoration: overline;
+    text-decoration: underline;
+
+}
