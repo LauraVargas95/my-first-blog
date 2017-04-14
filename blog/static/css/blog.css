@@ -5,3 +5,7 @@ h1 a {
 body{
     padding-left: 15px;
 }
+h2 a{
+    color:#102372;
+    font-family:'Macondo';
+}
