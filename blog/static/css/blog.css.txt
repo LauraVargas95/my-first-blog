@@ -1,0 +1,7 @@
+h1 a {
+    color:#003B6F
+    font-family: 'Macondo';
+}
+body{
+    padding-left: 15px;
+}
