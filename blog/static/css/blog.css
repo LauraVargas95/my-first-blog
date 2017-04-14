@@ -15,10 +15,18 @@ h2 a{
     padding:20px 20px 20px 40px;
 }
 
-.Encabezado h1, .Encabezado h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+.Encabezado h1, .Encabezado h1 a, .Encabezado h1 a:visited, .Encabezado h1 a:active {
     color: #ffffff;
     font-size:36pt;
     text-decoration: overline underline;
-
-
+}
+.Principio{
+    background-color:#102372;
+    margin-top:0;
+    padding:20px 20px 20px 40px;
+}
+.Principio h1, .Principio h1 a, .Principio h1 a:visited, .Principio h1 a:active {
+    color: #ffffff;
+    font-size:36pt;
+    text-decoration: overline underline;
 }
